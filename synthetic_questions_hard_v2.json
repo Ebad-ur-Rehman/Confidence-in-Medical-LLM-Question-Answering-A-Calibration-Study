@@ -1,0 +1,482 @@
+[
+ {
+  "id": 1,
+  "specialty": "Cardiology",
+  "question": "A 45-year-old diabetic woman presents with fatigue, nausea, and mild epigastric discomfort for the past 6 hours, without chest pain. She has autonomic neuropathy. ECG shows new T-wave inversions in the anterior leads. Troponin is mildly elevated. Which diagnosis best explains this presentation?",
+  "options": {
+   "A": "Anxiety disorder",
+   "B": "Silent myocardial infarction",
+   "C": "Gastritis",
+   "D": "Diabetic gastroparesis"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 2,
+  "specialty": "Cardiology",
+  "question": "A 30-year-old woman presents with sharp chest pain that worsens when lying flat and improves when leaning forward, along with a low-grade fever one week after a viral upper respiratory infection. A friction rub is heard on auscultation. ECG shows diffuse ST-elevation with PR depression. Which condition is most consistent with this presentation, as opposed to an acute coronary syndrome?",
+  "options": {
+   "A": "Acute pericarditis",
+   "B": "Unstable angina",
+   "C": "Aortic dissection",
+   "D": "ST-elevation myocardial infarction"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 3,
+  "specialty": "Pulmonology",
+  "question": "A 68-year-old man with known COPD presents with worsening dyspnea and pleuritic chest pain after a long car ride. His baseline oxygen saturation is 90%, now 84%. Chest X-ray is unchanged from prior. D-dimer is elevated. Which diagnosis should be prioritized over a COPD exacerbation given this history?",
+  "options": {
+   "A": "Pulmonary embolism",
+   "B": "COPD exacerbation",
+   "C": "Spontaneous pneumothorax",
+   "D": "Community-acquired pneumonia"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 4,
+  "specialty": "Pulmonology",
+  "question": "A 28-year-old woman presents with episodic dyspnea, wheezing, and a sensation of throat tightness that occurs during periods of stress and does not respond to albuterol. Spirometry during an episode shows a flattened inspiratory loop with a relatively preserved expiratory loop. Which diagnosis fits better than asthma?",
+  "options": {
+   "A": "Pulmonary embolism",
+   "B": "Chronic bronchitis",
+   "C": "Asthma exacerbation",
+   "D": "Vocal cord dysfunction"
+  },
+  "answer_idx": "D"
+ },
+ {
+  "id": 5,
+  "specialty": "Gastroenterology",
+  "question": "A 40-year-old man presents with intermittent right upper quadrant discomfort, fever, and jaundice occurring in episodes over several weeks. Ultrasound shows dilated intrahepatic and extrahepatic bile ducts without visible stones. Which diagnosis is more likely than simple choledocholithiasis given this pattern?",
+  "options": {
+   "A": "Viral hepatitis",
+   "B": "Biliary colic",
+   "C": "Cholangitis due to a stricture or obstructing mass",
+   "D": "Gastroenteritis"
+  },
+  "answer_idx": "C"
+ },
+ {
+  "id": 6,
+  "specialty": "Gastroenterology",
+  "question": "A 26-year-old woman presents with crampy abdominal pain and bloody diarrhea. Colonoscopy shows continuous inflammation starting at the rectum and extending proximally without skip lesions. Which diagnosis is favored over Crohn disease based on this distribution?",
+  "options": {
+   "A": "Irritable bowel syndrome",
+   "B": "Ischemic colitis",
+   "C": "Crohn disease",
+   "D": "Ulcerative colitis"
+  },
+  "answer_idx": "D"
+ },
+ {
+  "id": 7,
+  "specialty": "Endocrinology",
+  "question": "A 55-year-old woman presents with episodic headaches, palpitations, and profuse sweating, with blood pressure spiking to 210/120 mmHg during episodes and normalizing between them. Which diagnosis is more consistent with this episodic pattern than essential hypertension?",
+  "options": {
+   "A": "Pheochromocytoma",
+   "B": "Panic disorder",
+   "C": "Primary hyperaldosteronism",
+   "D": "Essential hypertension"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 8,
+  "specialty": "Endocrinology",
+  "question": "A 38-year-old woman presents with fatigue, weight gain, and hypertension, along with easy bruising and violaceous striae on her abdomen. Her morning cortisol fails to suppress after a low-dose dexamethasone test. Which diagnosis fits better than simple obesity with metabolic syndrome?",
+  "options": {
+   "A": "Polycystic ovary syndrome",
+   "B": "Metabolic syndrome",
+   "C": "Hypothyroidism",
+   "D": "Cushing syndrome"
+  },
+  "answer_idx": "D"
+ },
+ {
+  "id": 9,
+  "specialty": "Neurology",
+  "question": "A 35-year-old woman presents with several distinct episodes over the past year: one of blurred vision in one eye, one of leg weakness, and now tingling in her hands, each lasting days to weeks and partially resolving. MRI shows multiple white matter lesions disseminated in time and space. Which diagnosis is favored over a single stroke event?",
+  "options": {
+   "A": "Multiple sclerosis",
+   "B": "Migraine with aura",
+   "C": "Ischemic stroke",
+   "D": "Conversion disorder"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 10,
+  "specialty": "Neurology",
+  "question": "A 72-year-old man presents with a resting tremor, rigidity, and a shuffling gait that began gradually over the past year. His family also notes memory decline and visual hallucinations that appeared early, within months of the motor symptoms starting. Which diagnosis fits better than idiopathic Parkinson disease given the early cognitive and visual symptoms?",
+  "options": {
+   "A": "Dementia with Lewy bodies",
+   "B": "Essential tremor",
+   "C": "Alzheimer disease",
+   "D": "Idiopathic Parkinson disease"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 11,
+  "specialty": "Psychiatry",
+  "question": "A 24-year-old man reports a two-week period of elevated mood, decreased need for sleep, grandiosity, and impulsive spending, following a prior documented episode of depression. He denies any psychotic symptoms. Which diagnosis is more accurate than major depressive disorder given this history?",
+  "options": {
+   "A": "Borderline personality disorder",
+   "B": "Major depressive disorder, recurrent",
+   "C": "Bipolar I disorder",
+   "D": "Cyclothymic disorder"
+  },
+  "answer_idx": "C"
+ },
+ {
+  "id": 12,
+  "specialty": "Psychiatry",
+  "question": "A 45-year-old man presents with multiple physical complaints across different organ systems over several years, extensive medical workups that are repeatedly negative, and significant distress and time spent on health concerns despite reassurance. Which diagnosis fits better than a specific undiagnosed medical illness?",
+  "options": {
+   "A": "Factitious disorder",
+   "B": "Somatic symptom disorder",
+   "C": "Malingering",
+   "D": "An undiagnosed autoimmune condition"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 13,
+  "specialty": "Infectious Disease",
+  "question": "A 45-year-old man with well-controlled HIV on antiretroviral therapy presents with fever, night sweats, and a persistent cough for one month. Chest CT shows a cavitary upper lobe lesion. His CD4 count is 520. Which diagnosis should still be prioritized over an opportunistic infection given his preserved immune status?",
+  "options": {
+   "A": "Kaposi sarcoma of the lung",
+   "B": "Cryptococcal pneumonia",
+   "C": "Pneumocystis pneumonia",
+   "D": "Reactivation tuberculosis"
+  },
+  "answer_idx": "D"
+ },
+ {
+  "id": 14,
+  "specialty": "Infectious Disease",
+  "question": "A 35-year-old woman recently returned from a camping trip presents with fever, headache, and a rash that started at the wrists and ankles before spreading centrally to the trunk. Which diagnosis is more likely than a simple viral exanthem given this centripetal spread pattern?",
+  "options": {
+   "A": "Rocky Mountain spotted fever",
+   "B": "Contact dermatitis",
+   "C": "Viral exanthem",
+   "D": "Measles"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 15,
+  "specialty": "Nephrology",
+  "question": "A 60-year-old man on chronic NSAID therapy presents with a gradual rise in creatinine over months, along with sterile pyuria and mild proteinuria, but no edema or hypertension. Which diagnosis fits better than nephrotic syndrome given the absence of heavy proteinuria and edema?",
+  "options": {
+   "A": "Chronic interstitial nephritis",
+   "B": "Diabetic nephropathy",
+   "C": "Membranous nephropathy",
+   "D": "Minimal change disease"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 16,
+  "specialty": "Rheumatology",
+  "question": "A 50-year-old woman presents with symmetric small joint pain and morning stiffness lasting over an hour, improving with activity, present for 8 weeks. Rheumatoid factor is negative but anti-CCP antibody is positive. Which diagnosis is still favored despite the negative rheumatoid factor?",
+  "options": {
+   "A": "Osteoarthritis",
+   "B": "Rheumatoid arthritis",
+   "C": "Fibromyalgia",
+   "D": "Viral polyarthritis"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 17,
+  "specialty": "Rheumatology",
+  "question": "A 45-year-old man presents with acute monoarticular knee pain and swelling. Joint aspiration shows rhomboid-shaped, positively birefringent crystals under polarized light. Which diagnosis fits this crystal finding rather than gout?",
+  "options": {
+   "A": "Gout",
+   "B": "Rheumatoid arthritis",
+   "C": "Calcium pyrophosphate deposition disease (pseudogout)",
+   "D": "Septic arthritis"
+  },
+  "answer_idx": "C"
+ },
+ {
+  "id": 18,
+  "specialty": "Hematology",
+  "question": "A 60-year-old man presents with fatigue and easy bruising. Complete blood count shows pancytopenia, and peripheral smear shows teardrop-shaped red cells. Bone marrow aspiration yields a 'dry tap.' Which diagnosis is favored over simple aplastic anemia given the dry tap and teardrop cells?",
+  "options": {
+   "A": "Vitamin B12 deficiency",
+   "B": "Aplastic anemia",
+   "C": "Primary myelofibrosis",
+   "D": "Iron deficiency anemia"
+  },
+  "answer_idx": "C"
+ },
+ {
+  "id": 19,
+  "specialty": "Hematology",
+  "question": "A 6-year-old boy presents with easy bruising and prolonged bleeding after a dental procedure. Platelet count is normal, PT is normal, but PTT is prolonged and corrects with mixing study. Which diagnosis fits better than immune thrombocytopenic purpura given the normal platelet count?",
+  "options": {
+   "A": "Vitamin K deficiency",
+   "B": "Immune thrombocytopenic purpura",
+   "C": "Von Willebrand disease with normal platelet count",
+   "D": "Hemophilia A"
+  },
+  "answer_idx": "D"
+ },
+ {
+  "id": 20,
+  "specialty": "Dermatology",
+  "question": "A 30-year-old woman presents with painful, tender red nodules on her shins that appeared after starting a new medication, without ulceration. Biopsy would most likely show inflammation of the subcutaneous fat septa. Which diagnosis fits better than cellulitis given the bilateral, symmetric distribution?",
+  "options": {
+   "A": "Deep vein thrombosis",
+   "B": "Erythema nodosum",
+   "C": "Necrotizing fasciitis",
+   "D": "Cellulitis"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 21,
+  "specialty": "Dermatology",
+  "question": "A 55-year-old man presents with a slowly enlarging, asymmetric pigmented lesion with irregular borders and color variation on his back, noticed by his partner to have changed over the past 6 months. Which diagnosis should be prioritized over a benign nevus given these changes?",
+  "options": {
+   "A": "Benign compound nevus",
+   "B": "Seborrheic keratosis",
+   "C": "Melanoma",
+   "D": "Dermatofibroma"
+  },
+  "answer_idx": "C"
+ },
+ {
+  "id": 22,
+  "specialty": "Surgery",
+  "question": "A 70-year-old woman presents with colicky abdominal pain, distension, and vomiting. She has no prior abdominal surgeries. Abdominal X-ray shows dilated small bowel loops and a single air-fluid level in the right upper quadrant with air visible in the biliary tree. Which diagnosis fits this specific combination better than adhesive small bowel obstruction?",
+  "options": {
+   "A": "Gallstone ileus",
+   "B": "Adhesive small bowel obstruction",
+   "C": "Incarcerated hernia",
+   "D": "Sigmoid volvulus"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 23,
+  "specialty": "Surgery",
+  "question": "A 45-year-old woman presents with right upper quadrant pain, fever, and jaundice, along with confusion and hypotension. Which diagnosis is favored over simple acute cholecystitis given the presence of altered mental status and hypotension in addition to fever and jaundice?",
+  "options": {
+   "A": "Acute hepatitis",
+   "B": "Ascending cholangitis with sepsis",
+   "C": "Biliary colic",
+   "D": "Acute cholecystitis"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 24,
+  "specialty": "Pharmacology",
+  "question": "A patient on a monoamine oxidase inhibitor develops a hypertensive crisis after eating aged cheese. Which mechanism best explains this reaction, distinguishing it from serotonin syndrome?",
+  "options": {
+   "A": "Direct alpha-adrenergic agonism by the cheese",
+   "B": "Accumulation of serotonin at central receptors",
+   "C": "Anticholinergic toxicity",
+   "D": "Accumulation of tyramine leading to excess norepinephrine release"
+  },
+  "answer_idx": "D"
+ },
+ {
+  "id": 25,
+  "specialty": "Pharmacology",
+  "question": "A patient on two serotonergic medications develops agitation, hyperthermia, diaphoresis, and clonus with hyperreflexia. Which diagnosis fits this combination of clonus and hyperreflexia better than neuroleptic malignant syndrome?",
+  "options": {
+   "A": "Malignant hyperthermia",
+   "B": "Neuroleptic malignant syndrome",
+   "C": "Serotonin syndrome",
+   "D": "Anticholinergic toxicity"
+  },
+  "answer_idx": "C"
+ },
+ {
+  "id": 26,
+  "specialty": "Emergency Medicine",
+  "question": "A 50-year-old man presents with sudden tearing chest pain radiating to the back, with a blood pressure difference of 40 mmHg between his two arms. Which diagnosis is favored over acute myocardial infarction given the blood pressure discrepancy and tearing quality of pain?",
+  "options": {
+   "A": "Esophageal rupture",
+   "B": "Aortic dissection",
+   "C": "Pulmonary embolism",
+   "D": "Acute myocardial infarction"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 27,
+  "specialty": "Emergency Medicine",
+  "question": "A 25-year-old man is brought in after a seizure. He is confused, tachycardic, hyperthermic, and has dilated pupils and dry, flushed skin with absent bowel sounds. Which toxidrome fits better than a sympathomimetic overdose given the dry skin and absent bowel sounds?",
+  "options": {
+   "A": "Sympathomimetic toxidrome",
+   "B": "Anticholinergic toxidrome",
+   "C": "Opioid toxidrome",
+   "D": "Cholinergic toxidrome"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 28,
+  "specialty": "Pediatrics",
+  "question": "A 4-year-old boy presents with high fever, drooling, muffled voice, and a preference for sitting upright leaning forward. He appears toxic and anxious. Which diagnosis is favored over croup given the drooling, toxic appearance, and absence of a barking cough?",
+  "options": {
+   "A": "Croup (laryngotracheobronchitis)",
+   "B": "Epiglottitis",
+   "C": "Peritonsillar abscess",
+   "D": "Foreign body aspiration"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 29,
+  "specialty": "Pediatrics",
+  "question": "A 2-week-old infant presents with non-bilious projectile vomiting after feeds, appearing hungry afterward. An olive-shaped mass is palpated in the epigastrium. Which diagnosis fits better than gastroesophageal reflux given the projectile nature and palpable mass?",
+  "options": {
+   "A": "Malrotation with volvulus",
+   "B": "Hypertrophic pyloric stenosis",
+   "C": "Intussusception",
+   "D": "Gastroesophageal reflux"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 30,
+  "specialty": "Obstetrics",
+  "question": "A 32-year-old woman at 36 weeks gestation presents with sudden severe abdominal pain, vaginal bleeding, and a tender, rigid uterus. Fetal heart tracing shows late decelerations. Which diagnosis is favored over placenta previa given the pain and uterine rigidity?",
+  "options": {
+   "A": "Placental abruption",
+   "B": "Placenta previa",
+   "C": "Uterine rupture in an unscarred uterus",
+   "D": "Normal labor"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 31,
+  "specialty": "Obstetrics",
+  "question": "A 26-year-old woman 10 days postpartum presents with fever, uterine tenderness, and foul-smelling lochia. Which diagnosis is favored over mastitis given the uterine tenderness and lochia findings rather than breast findings?",
+  "options": {
+   "A": "Wound infection",
+   "B": "Postpartum endometritis",
+   "C": "Urinary tract infection",
+   "D": "Mastitis"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 32,
+  "specialty": "Urology",
+  "question": "A 45-year-old man presents with colicky flank pain radiating to the groin, along with hematuria. Noncontrast CT shows a 6mm stone at the ureterovesical junction without hydronephrosis. Given the size and location, which management is most appropriate over immediate surgical intervention?",
+  "options": {
+   "A": "Emergent surgical stone removal",
+   "B": "Immediate hemodialysis",
+   "C": "Trial of conservative management with hydration and alpha-blocker therapy",
+   "D": "Observation with no treatment or follow-up"
+  },
+  "answer_idx": "C"
+ },
+ {
+  "id": 33,
+  "specialty": "Ophthalmology",
+  "question": "A 60-year-old man with diabetes presents with gradual, painless central vision loss and distorted straight lines appearing wavy. Fundoscopy shows drusen and pigmentary changes at the macula, without hemorrhage. Which diagnosis fits better than diabetic retinopathy given the macular drusen and metamorphopsia?",
+  "options": {
+   "A": "Cataract",
+   "B": "Age-related macular degeneration",
+   "C": "Diabetic retinopathy",
+   "D": "Central retinal vein occlusion"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 34,
+  "specialty": "Endocrinology",
+  "question": "A 50-year-old woman presents with muscle weakness, hypertension, and hypokalemia not explained by diuretic use. Plasma aldosterone is elevated and plasma renin is suppressed. Which diagnosis fits better than secondary hyperaldosteronism given the suppressed renin?",
+  "options": {
+   "A": "Primary hyperaldosteronism (Conn syndrome)",
+   "B": "Chronic diuretic use",
+   "C": "Secondary hyperaldosteronism from renal artery stenosis",
+   "D": "Cushing syndrome"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 35,
+  "specialty": "Gastroenterology",
+  "question": "A 55-year-old man with cirrhosis presents with confusion, asterixis, and a musty breath odor after a recent gastrointestinal bleed. Which diagnosis fits better than a primary psychiatric cause given his cirrhosis and recent bleed?",
+  "options": {
+   "A": "Hepatic encephalopathy",
+   "B": "Alcohol intoxication",
+   "C": "Primary psychotic disorder",
+   "D": "Wernicke encephalopathy"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 36,
+  "specialty": "Neurology",
+  "question": "A 55-year-old man presents with sudden severe 'worst headache of my life,' briefly loses consciousness, and now has neck stiffness. Non-contrast CT of the head is normal. Which diagnosis should still be pursued with lumbar puncture despite the normal CT?",
+  "options": {
+   "A": "Subarachnoid hemorrhage",
+   "B": "Cluster headache",
+   "C": "Migraine",
+   "D": "Tension headache"
+  },
+  "answer_idx": "A"
+ },
+ {
+  "id": 37,
+  "specialty": "Infectious Disease",
+  "question": "A 30-year-old man presents with fever, malaise, and a large expanding red rash with central clearing on his thigh, three days after returning from a hiking trip. He does not recall a tick bite. Which diagnosis is still favored over cellulitis given the central clearing pattern?",
+  "options": {
+   "A": "Cellulitis",
+   "B": "Contact dermatitis",
+   "C": "Lyme disease (erythema migrans)",
+   "D": "Tinea corporis"
+  },
+  "answer_idx": "C"
+ },
+ {
+  "id": 38,
+  "specialty": "Psychiatry",
+  "question": "A 19-year-old woman presents with a body mass index of 15, intense fear of gaining weight, and a distorted perception of her body size despite being underweight, along with absent menstrual periods for 4 months. Which diagnosis fits better than bulimia nervosa given her significantly low body weight?",
+  "options": {
+   "A": "Binge eating disorder",
+   "B": "Anorexia nervosa, restricting type",
+   "C": "Major depressive disorder with appetite loss",
+   "D": "Bulimia nervosa"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 39,
+  "specialty": "Cardiology",
+  "question": "A 65-year-old man presents with progressive dyspnea on exertion and bilateral leg swelling. Echocardiogram shows preserved ejection fraction with impaired relaxation pattern on Doppler. Which diagnosis fits better than systolic heart failure given the preserved ejection fraction?",
+  "options": {
+   "A": "Heart failure with reduced ejection fraction",
+   "B": "Heart failure with preserved ejection fraction (diastolic dysfunction)",
+   "C": "Constrictive pericarditis",
+   "D": "Restrictive cardiomyopathy"
+  },
+  "answer_idx": "B"
+ },
+ {
+  "id": 40,
+  "specialty": "Nephrology",
+  "question": "A 25-year-old man presents with gross hematuria that occurs within 1-2 days of an upper respiratory infection, recurring in episodes, with normal blood pressure and mild proteinuria between episodes. Which diagnosis fits this rapid post-infectious timing better than post-streptococcal glomerulonephritis, which typically has a longer latency?",
+  "options": {
+   "A": "Post-streptococcal glomerulonephritis",
+   "B": "Minimal change disease",
+   "C": "Alport syndrome",
+   "D": "IgA nephropathy"
+  },
+  "answer_idx": "D"
+ }
+]
